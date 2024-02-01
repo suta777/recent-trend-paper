@@ -1,8 +1,8 @@
 # recent-trend-paper
 
 ## 2024
-| **Title** | **Field** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+| **Title** |**Publication** | **Review** | **Source** |
+|:--------|:--------:|:--------:|:--------:|
 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | `NLP` | `ICLR` | [Blog]() | [Paper](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) | 
 | Improving fine-grained understanding in image-text pre-training | `CV` | - | - | [Paper](https://arxiv.org/pdf/2401.09865.pdf) | 
 
@@ -11,7 +11,7 @@
 
 ### NLP 
 | **Title** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|
 | Do PLMs Know and Understand Ontological Knowledge? |`ACL` | [Blog](https://limeh.tistory.com/19) | [Paper](https://arxiv.org/pdf/2309.05936.pdf) | 
 | FRUIT: Faithfully Reflecting Updated Information in Text | `NAACL` | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/FRUIT.md) | [Paper](https://arxiv.org/pdf/2112.08634.pdf) | 
 | CogAgent: A Visual Language Model for GUI Agents | - | [Blog](https://limeh.tistory.com/21) | [Paper](https://arxiv.org/pdf/2312.08914.pdf) | 
@@ -27,7 +27,7 @@
 
 ### Computer Vision 
 | **Title** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|
 | Token Merging: Your ViT But Faster | `ICLR` | [Blog](https://file.notion.so/f/f/310de290-c4f3-428e-badf-f06a99ae4455/3062150a-8a01-493c-a38d-a6d08f7520f9/ToMe.pdf?id=818894fe-ee81-4b73-a858-f6aa36c3e61f&table=block&spaceId=310de290-c4f3-428e-badf-f06a99ae4455&expirationTimestamp=1706918400000&signature=tNuraf53OR6eleTbXZa9z2fmVO2hlOPhfsdnUqV88nA&downloadName=ToMe.pdf) | [Paper](https://arxiv.org/pdf/2210.09461.pdf) | 
 | Visual Programming: Compositional visual reasoning without training | `CVPR` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Visual-Programming-Compositional-visual-reasoning-without-trainingCVPR-2023) | [Paper](https://arxiv.org/pdf/2211.11559.pdf) | 
 | AnyText: Multilingual Visual Text Generation And Editing | `CVPR` | [Blog](https://tnwhd.tistory.com/114) | [Paper](https://arxiv.org/pdf/2311.03054.pdf) | 
@@ -38,7 +38,7 @@
 
 ### Recommender Systems 
 | **Title** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|
 | Learning Fair Graph Representations via Automated Data Augmentations | `ICLR` | [Blog](https://ok-lab.tistory.com/279) | [Paper](https://drive.google.com/file/d/1JrPoYuJCD0jluqEjvKNA74DgWXmUcgFa/view) | 
 | Going Beyond Local; Global-Graph-Enhanced Personalized News Recommendation | `RecSys` | [Blog](https://dontvisit.tistory.com/74) | [Paper](https://arxiv.org/pdf/2307.06576.pdf) | 
 | Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation | `CIKM` | [Blog](https://ok-lab.tistory.com/341) | [Paper](https://arxiv.org/pdf/2311.13188.pdf) | 
@@ -53,7 +53,7 @@
 
 ### Multi-Modal
 | **Title** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|
 | LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models | - | [Blog](https://limeh.tistory.com/22) | [Paper](https://arxiv.org/pdf/2311.17043.pdf) | 
 | Osprey: Pixel Understanding with Visual Instruction Tuning | - | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/Osprey.md) | [Paper](https://arxiv.org/pdf/2312.10032.pdf) | 
 | TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation | `ICCV` | - | [Paper](https://arxiv.org/pdf/2307.14611.pdf) | 
@@ -61,13 +61,13 @@
 ### Speech 
 
 | **Title** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|
 | Robust Speech Recognition via Large-Scale Weak Supervision | `ICML` | [Blog](https://tnwhd.tistory.com/117) | [Paper](https://arxiv.org/pdf/2212.04356.pdf) | 
 
 
 ### Others
 | **Title** | **Publication** | **Review** | **Source** |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------:|:--------:|:--------:|
 | A Time Series is Worth 64 Words: Long-term Forecasting with Transformers | `ICLR` | [Blog](https://insoo-hwang.tistory.com/23) | [Paper](https://arxiv.org/pdf/2211.14730.pdf) | 
 | Are Emergent Abilities of Large Language Models a Mirage? | `NIPS` | [Blog](https://insoo-hwang.tistory.com/26) | [Paper](https://arxiv.org/pdf/2304.15004.pdf) | 
 | Two-way Multi-Label Loss | `CVPR` | [Blog](https://file.notion.so/f/f/310de290-c4f3-428e-badf-f06a99ae4455/e9395db4-7ab7-4a28-b2fb-8c87483d78b1/Two-way_Multi_Label_Loss.pdf?id=5e12d684-64f1-46a1-a933-63dae7b174b7&table=block&spaceId=310de290-c4f3-428e-badf-f06a99ae4455&expirationTimestamp=1706918400000&signature=OT7YD4FXO-j9eKGEXA_h24o8OyBYg3uZzxq7B7DdC6E&downloadName=Two-way+Multi+Label+Loss.pdf) | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kobayashi_Two-Way_Multi-Label_Loss_CVPR_2023_paper.pdf) | 
