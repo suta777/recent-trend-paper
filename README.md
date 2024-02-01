@@ -3,7 +3,7 @@
 ## 2024
 | **Title** |**Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|
-| Mamba: Linear-Time Sequence Modeling with Selective State Spaces | `NLP` | `ICLR` | [Blog]() | [Paper](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) | 
+| Mamba: Linear-Time Sequence Modeling with Selective State Spaces | `ICLR` | [Blog]() | [Paper](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) | 
 | Improving fine-grained understanding in image-text pre-training | `CV` | - | - | [Paper](https://arxiv.org/pdf/2401.09865.pdf) | 
 
 
