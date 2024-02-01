@@ -42,7 +42,7 @@
 | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | `RecSys` | - | [Blog](https://dontvisit.tistory.com/81) | [Paper](https://arxiv.org/pdf/2304.03879.pdf) |
 | Large language models are human-level prompt engineers | `NLP` | `ICLR` | [Blog](https://tnwhd.tistory.com/118) | [Paper](https://arxiv.org/pdf/2211.01910.pdf) |
 | Collaborative filtering algorithms are prone to mainstream-taste bias | `RecSys` | `RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Collaborative-filtering-algorithms-are-prone-to-mainstream-taste-bias-41d25d63d7d14f2c82c59375a8fbfff3) | [Paper](https://www.researchgate.net/profile/Pantelis-Analytis/publication/372690001_Collaborative_filtering_algorithms_are_prone_to_mainstream_taste_bias/links/64c3919bcda2775c03cb588d/Collaborative-filtering-algorithms-are-prone-to-mainstream-taste-bias.pdf) |
-|  |  |  | [Blog]() | [Paper]() |
+|  |  |  |  |  |
 
 
 ## 2022
