@@ -33,6 +33,7 @@
 | AnyText: Multilingual Visual Text Generation And Editing | `CVPR` | [Blog](https://tnwhd.tistory.com/114) | [Paper](https://arxiv.org/pdf/2311.03054.pdf) | 
 | What the DAAM: Interpreting Stable Diffusion Using Cross Attention |`ACL` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-21-What-the-DAAM-Interpreting-Stable-Diffusion-Using-Cross-Attention.md) | [Paper](https://arxiv.org/pdf/2210.04885.pdf) | 
 | Erasing Concepts from Diffusion Models |`ICCV` | - | [Paper](https://arxiv.org/pdf/2303.07345.pdf) | 
+| Zero-shot Referring Image Segmentation with Global-Local Context Features| `CVPR` | [Blog](https://ok-lab.tistory.com/348) | [Paper](https://arxiv.org/pdf/2303.17811.pdf) | 
 
 
 
