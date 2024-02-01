@@ -4,7 +4,7 @@
 | **Title** |**Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|
 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | `ICLR` | [Blog]() | [Paper](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) | 
-| Improving fine-grained understanding in image-text pre-training | `CV` | - | - | [Paper](https://arxiv.org/pdf/2401.09865.pdf) | 
+| Improving fine-grained understanding in image-text pre-training | `CV` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Improving-fine-grained-understanding-in-image-text-pre-trainingarXiv-preprint) | [Paper](https://arxiv.org/pdf/2401.09865.pdf) | 
 
 
 ## 2023 
@@ -32,7 +32,7 @@
 | Visual Programming: Compositional visual reasoning without training | `CVPR` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Visual-Programming-Compositional-visual-reasoning-without-trainingCVPR-2023) | [Paper](https://arxiv.org/pdf/2211.11559.pdf) | 
 | AnyText: Multilingual Visual Text Generation And Editing | `CVPR` | [Blog](https://tnwhd.tistory.com/114) | [Paper](https://arxiv.org/pdf/2311.03054.pdf) | 
 | What the DAAM: Interpreting Stable Diffusion Using Cross Attention |`ACL` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-21-What-the-DAAM-Interpreting-Stable-Diffusion-Using-Cross-Attention.md) | [Paper](https://arxiv.org/pdf/2210.04885.pdf) | 
-| Erasing Concepts from Diffusion Models |`ICCV` | - | [Paper](https://arxiv.org/pdf/2303.07345.pdf) | 
+| Erasing Concepts from Diffusion Models |`ICCV` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Erasing-Concepts-from-Diffusion-ModelsICCV-2023) | [Paper](https://arxiv.org/pdf/2303.07345.pdf) | 
 | Zero-shot Referring Image Segmentation with Global-Local Context Features| `CVPR` | [Blog](https://ok-lab.tistory.com/348) | [Paper](https://arxiv.org/pdf/2303.17811.pdf) | 
 
 
