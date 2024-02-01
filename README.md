@@ -48,7 +48,7 @@
 | Denoising Self-Attentive Sequential Recommendation | `RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Rec-Denoiser-e1a930928a4f4a499069ab765a750210) | [Paper](https://arxiv.org/pdf/2212.04120.pdf) | 
 | Interpretable User Retention Modeling in Recommendation |`RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Interpretable-User-Retention-Modeling-in-Recommendation-0052e3bf4744450683d51554c32740a8?pvs=4) | [Paper](https://www.researchgate.net/profile/Ding-Rui-2/publication/373945373_Interpretable_User_Retention_Modeling_in_Recommendation/links/6592679a2468df72d3ee5da4/Interpretable-User-Retention-Modeling-in-Recommendation.pdf) | 
 | Diffusion Recommender Model |`SIGIR` | [Blog](https://ok-lab.tistory.com/345) | [Paper](https://arxiv.org/pdf/2304.04971.pdf) | 
-| GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | `RecSys` | - | [Blog](https://dontvisit.tistory.com/81) | [Paper](https://arxiv.org/pdf/2304.03879.pdf) |
+| GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | - | [Blog](https://dontvisit.tistory.com/81) | [Paper](https://arxiv.org/pdf/2304.03879.pdf) |
 | Collaborative filtering algorithms are prone to mainstream-taste bias |`RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Collaborative-filtering-algorithms-are-prone-to-mainstream-taste-bias-41d25d63d7d14f2c82c59375a8fbfff3) | [Paper](https://www.researchgate.net/profile/Pantelis-Analytis/publication/372690001_Collaborative_filtering_algorithms_are_prone_to_mainstream_taste_bias/links/64c3919bcda2775c03cb588d/Collaborative-filtering-algorithms-are-prone-to-mainstream-taste-bias.pdf) |
 
 
