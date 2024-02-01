@@ -4,6 +4,7 @@
 | **Title** | **Field** | **Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | `NLP` | `ICLR` | [Blog]() | [Paper](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) | 
+| Improving fine-grained understanding in image-text pre-training | `CV` | - | - | [Paper](https://arxiv.org/pdf/2401.09865.pdf) | 
 
 
 ## 2023 
@@ -19,24 +20,37 @@
 | Goal-Oriented Multi-Modal Interactive Recommendation with Verbal and Non-Verbal Relevance Feedback | `RecSys` | `RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/GOMMIR-947051a552e24eeca847273025750892) | [Paper](https://file.notion.so/f/f/310de290-c4f3-428e-badf-f06a99ae4455/0a76bbd2-47ac-45f9-8761-80d6bd5f83f3/3604915.3608775.pdf?id=f989b0a6-26c4-49de-966e-695694230def&table=block&spaceId=310de290-c4f3-428e-badf-f06a99ae4455&expirationTimestamp=1706918400000&signature=0-xscvwc-Q31OPfDEQNlYsl_dIehQlBxTNIUNz70tLs&downloadName=3604915.3608775.pdf) | 
 | AnyText: Multilingual Visual Text Generation And Editing | `CV` | `CVPR` | [Blog](https://tnwhd.tistory.com/114) | [Paper](https://arxiv.org/pdf/2311.03054.pdf) | 
 | FRUIT: Faithfully Reflecting Updated Information in Text | `NLP` | `NAACL` | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/FRUIT.md) | [Paper](https://arxiv.org/pdf/2112.08634.pdf) | 
-| CogAgent: A Visual Language Model for GUI Agents | `NLP` | ` | [Blog]() | [Paper](https://arxiv.org/pdf/2312.08914.pdf) | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
+| CogAgent: A Visual Language Model for GUI Agents | `NLP` | - | [Blog](https://limeh.tistory.com/21) | [Paper](https://arxiv.org/pdf/2312.08914.pdf) | 
+| Are Emergent Abilities of Large Language Models a Mirage? | `Metric` | `NIPS` | [Blog](https://insoo-hwang.tistory.com/26) | [Paper](https://arxiv.org/pdf/2304.15004.pdf) | 
+| Of Spiky SVDs and Music Recommendation | `RecSys` | `RecSys` | [Blog](https://dontvisit.tistory.com/77) | [Paper](https://arxiv.org/pdf/2307.01212.pdf) | 
+| Denoising Self-Attentive Sequential Recommendation | `RecSys` | `RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Rec-Denoiser-e1a930928a4f4a499069ab765a750210) | [Paper](https://arxiv.org/pdf/2212.04120.pdf) | 
+| LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models | `Multi-Modal` | - | [Blog](https://limeh.tistory.com/22) | [Paper](https://arxiv.org/pdf/2311.17043.pdf) | 
+| Generative Agents: Interactive Simulacra of Human Behavior | `NLP` | `UIST` | [Blog](https://insoo-hwang.tistory.com/28) | [Paper](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763) | 
+| Osprey: Pixel Understanding with Visual Instruction Tuning | `Multi-Modal` | - | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/Osprey.md) | [Paper](https://arxiv.org/pdf/2312.10032.pdf) | 
+| TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation | `Multi-Modal` | `ICCV` | - | [Paper](https://arxiv.org/pdf/2307.14611.pdf) | 
+| What the DAAM: Interpreting Stable Diffusion Using Cross Attention | `CV` | `ACL` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-21-What-the-DAAM-Interpreting-Stable-Diffusion-Using-Cross-Attention.md) | [Paper](https://arxiv.org/pdf/2210.04885.pdf) | 
+| UniMath: A Foundational and Multimodal Mathematical Reasoner | `NLP` | `EMNLP` | [Blog](https://ok-lab.tistory.com/343) | [Paper](https://aclanthology.org/2023.emnlp-main.440.pdf) | 
+| Erasing Concepts from Diffusion Models | `CV` | `ICCV` | - | [Paper](https://arxiv.org/pdf/2303.07345.pdf) | 
+| Robust Speech Recognition via Large-Scale Weak Supervision | `Speech` | `ICML` | [Blog](https://tnwhd.tistory.com/117) | [Paper](https://arxiv.org/pdf/2212.04356.pdf) | 
+| Interpretable User Retention Modeling in Recommendation | `RecSys` | `RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Interpretable-User-Retention-Modeling-in-Recommendation-0052e3bf4744450683d51554c32740a8?pvs=4) | [Paper](https://www.researchgate.net/profile/Ding-Rui-2/publication/373945373_Interpretable_User_Retention_Modeling_in_Recommendation/links/6592679a2468df72d3ee5da4/Interpretable-User-Retention-Modeling-in-Recommendation.pdf) | 
+| Active Retrieval Augmented Generation | `NLP` | `EMNLP` | [Blog](https://limeh.tistory.com/23) | [Paper](https://arxiv.org/pdf/2305.06983.pdf) | 
+| PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents | `NLP` | `EMNLP` | [Blog](https://insoo-hwang.tistory.com/29) | [Paper](https://aclanthology.org/2023.emnlp-demo.45.pdf) | 
+| Extractive Summarization via ChatGPT for Faithful Summary Generation | `NLP` | `EMNLP` | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/Extractive%20Summarization%20via%20ChatGPT%20for%20Faithful%20Summary%20Generation.md) | [Paper](https://arxiv.org/pdf/2304.04193.pdf) | 
+| Diffusion Recommender Model | `RecSys` | `SIGIR` | [Blog](https://ok-lab.tistory.com/345) | [Paper](https://arxiv.org/pdf/2304.04971.pdf) | 
+| G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment | `NLP` | `EMNLP` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-27-G-EVAL-NLG-Evaluation-using-GPT-4-with-Better-Human-Alignment.md) | [Paper](https://arxiv.org/pdf/2303.16634.pdf) | 
+| Two-way Multi-Label Loss | `Optimization` | `CVPR` | [Blog](https://file.notion.so/f/f/310de290-c4f3-428e-badf-f06a99ae4455/e9395db4-7ab7-4a28-b2fb-8c87483d78b1/Two-way_Multi_Label_Loss.pdf?id=5e12d684-64f1-46a1-a933-63dae7b174b7&table=block&spaceId=310de290-c4f3-428e-badf-f06a99ae4455&expirationTimestamp=1706918400000&signature=OT7YD4FXO-j9eKGEXA_h24o8OyBYg3uZzxq7B7DdC6E&downloadName=Two-way+Multi+Label+Loss.pdf) | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kobayashi_Two-Way_Multi-Label_Loss_CVPR_2023_paper.pdf) | 
+| GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | `RecSys` | - | [Blog](https://dontvisit.tistory.com/81) | [Paper](https://arxiv.org/pdf/2304.03879.pdf) |
+| Large language models are human-level prompt engineers | `NLP` | `ICLR` | [Blog](https://tnwhd.tistory.com/118) | [Paper](https://arxiv.org/pdf/2211.01910.pdf) |
+| Collaborative filtering algorithms are prone to mainstream-taste bias | `RecSys` | `RecSys` | [Blog](https://flicker-lunge-bcb.notion.site/Collaborative-filtering-algorithms-are-prone-to-mainstream-taste-bias-41d25d63d7d14f2c82c59375a8fbfff3) | [Paper](https://www.researchgate.net/profile/Pantelis-Analytis/publication/372690001_Collaborative_filtering_algorithms_are_prone_to_mainstream_taste_bias/links/64c3919bcda2775c03cb588d/Collaborative-filtering-algorithms-are-prone-to-mainstream-taste-bias.pdf) |
+|  |  |  | [Blog]() | [Paper]() |
 
 
 ## 2022
 
 | **Title** | **Field** | **Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
-|  |  |  | [Blog]() | [Paper]() | 
+| Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation | `RecSys` | `IJCAI` | [Blog](https://ok-lab.tistory.com/274) | [Paper](https://www.ijcai.org/proceedings/2022/0490.pdf) | 
+| Do Prompt-Based Models Really Understand the Meaning of Their Prompts? | `NLP` | `NAACL` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-15-Do-Prompt-Based-Models-Really-Understand-the-Meaning-of-Their-Prompts%20copy.md) | [Paper](https://arxiv.org/pdf/2109.01247.pdf) | 
+| Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | `NLP` | `NIPS` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Few-Shot-Parameter-Efficient-Fine-Tuning-is-Betterand-Cheaper-than-In-Context-LearningNeurIPS-2022) | [Paper](https://arxiv.org/pdf/2205.05638.pdf) | 
+| BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | `Multi-Modal` | `CVPR` | [Blog](https://tnwhd.tistory.com/116) | [Paper](https://arxiv.org/pdf/2201.12086.pdf) | 
+| Rethinking Personalized Ranking at Pinterest: An End-to-End Approach | `RecSys` | `RecSys` | [Blog](https://dontvisit.tistory.com/79) | [Paper](https://arxiv.org/pdf/2209.08435.pdf) | 
