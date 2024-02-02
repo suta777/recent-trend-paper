@@ -72,7 +72,7 @@
 | A Time Series is Worth 64 Words: Long-term Forecasting with Transformers | `ICLR` | [Blog](https://insoo-hwang.tistory.com/23) | [Paper](https://arxiv.org/pdf/2211.14730.pdf) | 
 | Are Emergent Abilities of Large Language Models a Mirage? | `NIPS` | [Blog](https://insoo-hwang.tistory.com/26) | [Paper](https://arxiv.org/pdf/2304.15004.pdf) | 
 | Two-way Multi-Label Loss | `CVPR` | [Blog](https://file.notion.so/f/f/310de290-c4f3-428e-badf-f06a99ae4455/e9395db4-7ab7-4a28-b2fb-8c87483d78b1/Two-way_Multi_Label_Loss.pdf?id=5e12d684-64f1-46a1-a933-63dae7b174b7&table=block&spaceId=310de290-c4f3-428e-badf-f06a99ae4455&expirationTimestamp=1706918400000&signature=OT7YD4FXO-j9eKGEXA_h24o8OyBYg3uZzxq7B7DdC6E&downloadName=Two-way+Multi+Label+Loss.pdf) | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kobayashi_Two-Way_Multi-Label_Loss_CVPR_2023_paper.pdf) | 
-
+ 
 
 
 ## 2022
