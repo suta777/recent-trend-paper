@@ -58,7 +58,7 @@
 | LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models | - | [Blog](https://limeh.tistory.com/22) | [Paper](https://arxiv.org/pdf/2311.17043.pdf) | 
 | Osprey: Pixel Understanding with Visual Instruction Tuning | - | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/Osprey.md) | [Paper](https://arxiv.org/pdf/2312.10032.pdf) | 
 | TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation | `ICCV` | - | [Paper](https://arxiv.org/pdf/2307.14611.pdf) | 
-| Unifying Vision, Text, and Layout for Universal Document Processing | `CVPR` | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/UPOP.md) | [Paper]([https://arxiv.org/pdf/2307.14611.pdf](https://arxiv.org/pdf/2212.02623.pdf)) | 
+| Unifying Vision, Text, and Layout for Universal Document Processing | `CVPR` | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/UPOP.md) | [Paper](https://arxiv.org/pdf/2212.02623.pdf) | 
 
 ### Speech 
 
