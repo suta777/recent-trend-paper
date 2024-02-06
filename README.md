@@ -22,7 +22,7 @@
 | Extractive Summarization via ChatGPT for Faithful Summary Generation | `EMNLP` | [Blog](https://github.com/in-sukim/NLP-Paper/blob/main/Extractive%20Summarization%20via%20ChatGPT%20for%20Faithful%20Summary%20Generation.md) | [Paper](https://arxiv.org/pdf/2304.04193.pdf) | 
 | G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment | `EMNLP` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-27-G-EVAL-NLG-Evaluation-using-GPT-4-with-Better-Human-Alignment.md) | [Paper](https://arxiv.org/pdf/2303.16634.pdf) |
 | Large language models are human-level prompt engineers |`ICLR` | [Blog](https://tnwhd.tistory.com/118) | [Paper](https://arxiv.org/pdf/2211.01910.pdf) |
-
+| Improving the Domain Adaptation of Retrieval Augmented Generation(RAG) Models for Open Domain Question Answering | `TACL` | [Blog](https://doricom.tistory.com/74) | [Paper](https://arxiv.org/pdf/2210.02627v1.pdf) |
 
 
 ### Computer Vision 
