@@ -5,7 +5,7 @@
 |:--------|:--------:|:--------:|:--------:|
 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | `ICLR` | [Blog]() | [Paper](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) | 
 | Improving fine-grained understanding in image-text pre-training | `CV` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Improving-fine-grained-understanding-in-image-text-pre-trainingarXiv-preprint) | [Paper](https://arxiv.org/pdf/2401.09865.pdf) | 
-
+| DoLA: DECODING BY CONTRASTING LAYERS IMPROVES FACTUALITY IN LARGE LANGUAGE MODELS | `ICLR` | [Blog](https://jaealways.github.io/DoLA-DECODING-BY-CONTRASTING-LAYERS-IMPROVES-FACTUALITY-IN-LARGE-LANGUAGE-MODELS/) | [Paper](https://arxiv.org/pdf/2309.03883.pdf) |
 
 ## 2023 
 
@@ -23,6 +23,7 @@
 | G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment | `EMNLP` | [Blog](https://github.com/jaealways/jaealways.github.io/blob/master/_posts/2024-01-27-G-EVAL-NLG-Evaluation-using-GPT-4-with-Better-Human-Alignment.md) | [Paper](https://arxiv.org/pdf/2303.16634.pdf) |
 | Large language models are human-level prompt engineers |`ICLR` | [Blog](https://tnwhd.tistory.com/118) | [Paper](https://arxiv.org/pdf/2211.01910.pdf) |
 | Improving the Domain Adaptation of Retrieval Augmented Generation(RAG) Models for Open Domain Question Answering | `TACL` | [Blog](https://doricom.tistory.com/74) | [Paper](https://arxiv.org/pdf/2210.02627v1.pdf) |
+| Mistral 7B | `preprint` | [Blog](https://jaealways.github.io/Mistral-7B/) | [Paper](https://arxiv.org/pdf/2310.06825.pdf) |
 
 
 ### Computer Vision 
