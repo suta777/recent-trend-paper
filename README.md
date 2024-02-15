@@ -86,3 +86,4 @@
 | Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | `NLP` | `NIPS` | [Blog](https://velog.io/@kunha98/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0Few-Shot-Parameter-Efficient-Fine-Tuning-is-Betterand-Cheaper-than-In-Context-LearningNeurIPS-2022) | [Paper](https://arxiv.org/pdf/2205.05638.pdf) | 
 | BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | `Multi-Modal` | `CVPR` | [Blog](https://tnwhd.tistory.com/116) | [Paper](https://arxiv.org/pdf/2201.12086.pdf) | 
 | Rethinking Personalized Ranking at Pinterest: An End-to-End Approach | `RecSys` | `RecSys` | [Blog](https://dontvisit.tistory.com/79) | [Paper](https://arxiv.org/pdf/2209.08435.pdf) | 
+| Factuality Enhanced Language Models for Open-Ended Text Generation | `NLP` | `NeurIPS` | [Blog](https://tnwhd.tistory.com/119) | [Paper](https://arxiv.org/pdf/2206.04624.pdf) | 
